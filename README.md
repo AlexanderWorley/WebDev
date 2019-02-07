@@ -1,5 +1,5 @@
 # Meaning
-This WebDev Respo is an idea that I have to create a functioning Conference bridging and paging site. The Notes.md will contain my 
+This WebDev Repo is an idea that I have to create a functioning Conference bridging and paging site. The Notes.md will contain my 
 thought process, progress, updates, and will act as a Journal regarding this project. 
 
 
