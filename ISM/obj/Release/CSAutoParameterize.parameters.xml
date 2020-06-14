@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="InventoryDB-Web.config Connection String" description="InventoryDB Connection String used in web.config by the application to access the database." defaultValue="Data Source=inventoryserverccfi.database.windows.net;Initial Catalog=master;User ID=MasterAdmin;Password=********;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="A:\\Projects\\ISM\\ISM\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='InventoryDB']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ISM.Models.InventoryModel>
+
+@{
+    ViewBag.Title = "ViewAssets";
+}
+
+<h2>View Assets</h2>
+
+<p>
+    @Html.ActionLink("Add New Asset", "Add an Asset")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Manufacturer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SerialNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MacAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AssignedUser)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EnteredAgent)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgentCheckOut)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Manufacturer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SerialNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MacAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AssignedUser)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EnteredAgent)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AgentCheckOut)
+        </td>   
+    </tr>
+}
+
+</table>

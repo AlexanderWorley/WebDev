@@ -1,0 +1,9 @@
+A:\Projects\ISM\DataLibrary\bin\Release\DataLibrary.dll
+A:\Projects\ISM\DataLibrary\bin\Release\DataLibrary.pdb
+A:\Projects\ISM\DataLibrary\bin\Release\Dapper.dll
+A:\Projects\ISM\DataLibrary\bin\Release\Dapper.xml
+A:\Projects\ISM\DataLibrary\obj\Release\DataLibrary.csprojAssemblyReference.cache
+A:\Projects\ISM\DataLibrary\obj\Release\DataLibrary.csproj.CoreCompileInputs.cache
+A:\Projects\ISM\DataLibrary\obj\Release\DataLibrary.csproj.CopyComplete
+A:\Projects\ISM\DataLibrary\obj\Release\DataLibrary.dll
+A:\Projects\ISM\DataLibrary\obj\Release\DataLibrary.pdb

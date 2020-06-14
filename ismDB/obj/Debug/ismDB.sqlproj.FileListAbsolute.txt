@@ -1,0 +1,6 @@
+A:\Projects\ISM\ismDB\bin\Debug\ismDB.dacpac
+A:\Projects\ISM\ismDB\bin\Debug\ismDB.dll
+A:\Projects\ISM\ismDB\bin\Debug\ismDB.pdb
+A:\Projects\ISM\ismDB\obj\Debug\ismDB.sqlprojAssemblyReference.cache
+A:\Projects\ISM\ismDB\obj\Debug\ismDB.dll
+A:\Projects\ISM\ismDB\obj\Debug\ismDB.pdb
