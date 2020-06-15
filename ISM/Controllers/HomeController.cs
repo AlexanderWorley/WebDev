@@ -22,6 +22,13 @@ namespace ISM.Controllers
             return View();
         
         }
+
+        public ActionResult Deskpro()
+        {
+            return Redirect("https://support.ccfi.com/agent/login?return=/agent/");
+
+        }
+
         public ActionResult ViewAssets()
         {
             ViewBag.Message = "Asset List";
