@@ -14,7 +14,7 @@ namespace DataLibrary.DataAccess
 {
     public static class SqlDataAccess
     {
-        public static string GetConnectionString(string connectionName = "inventoryserverccfi/InventoryDB") 
+        public static string GetConnectionString(string connectionName = "inventoryservercffi/InventoryDB") 
         {
             return ConfigurationManager.ConnectionStrings[connectionName].ConnectionString;
         }
