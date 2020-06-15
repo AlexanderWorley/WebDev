@@ -4,3 +4,13 @@ A:\Projects\ISM\ismDB\bin\Debug\ismDB.pdb
 A:\Projects\ISM\ismDB\obj\Debug\ismDB.sqlprojAssemblyReference.cache
 A:\Projects\ISM\ismDB\obj\Debug\ismDB.dll
 A:\Projects\ISM\ismDB\obj\Debug\ismDB.pdb
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\bin\Debug\ismDB.dacpac
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\bin\Debug\ismDB.dll
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\bin\Debug\ismDB.pdb
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\obj\Debug\ismDB.sqlprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\obj\Debug\ismDB.dll
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\obj\Debug\ismDB.pdb
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\obj\Debug\Model.xml
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\obj\Debug\refactor.xml
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\obj\Debug\postdeploy.sql
+C:\Users\Alex\Documents\GitHub\WebDev\ismDB\obj\Debug\predeploy.sql

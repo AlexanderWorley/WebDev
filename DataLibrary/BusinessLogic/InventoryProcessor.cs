@@ -27,7 +27,7 @@ namespace DataLibrary.BusinessLogic
                             values (@Manufacturer, @SerialNumber, @MacAddress, @AssignedUser, @EnteredAgent, @AgentCheckOut);";
             return SqlDataAccess.SaveData(sql, data);
         }
-
+        // SQL Pull Statement
         public static List<InventoryModel> LoadInventory()
             {
             string sql = @"select Id, Manufacturer, SerialNumber, MacAddress, AssignedUser, EnteredAgent, AgentCheckOut
