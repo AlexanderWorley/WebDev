@@ -81,3 +81,7 @@ A:\Projects\ISM\ISM\bin\DataLibrary.dll
 A:\Projects\ISM\ISM\bin\Dapper.dll
 A:\Projects\ISM\ISM\bin\DataLibrary.pdb
 A:\Projects\ISM\ISM\bin\Dapper.xml
+C:\Users\Alex\Documents\GitHub\WebDev\ISM\obj\Debug\ISM.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\WebDev\ISM\obj\Debug\ISM.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\WebDev\ISM\obj\Debug\ISM.dll
+C:\Users\Alex\Documents\GitHub\WebDev\ISM\obj\Debug\ISM.pdb
