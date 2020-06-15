@@ -7,3 +7,12 @@ A:\Projects\ISM\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
 A:\Projects\ISM\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
 A:\Projects\ISM\DataLibrary\obj\Debug\DataLibrary.dll
 A:\Projects\ISM\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Alex\Documents\GitHub\WebDev\DataLibrary\obj\Debug\DataLibrary.pdb

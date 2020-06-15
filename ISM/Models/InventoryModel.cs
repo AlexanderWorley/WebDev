@@ -14,7 +14,7 @@ namespace ISM.Models
         public string Manufacturer{ get; set;}
         [Display(Name = "Serial Number")]
         public string SerialNumber { get; set; }
-        7
+        
         [StringLength(17, MinimumLength = 17, ErrorMessage = "17 characters required for MAC Address")]
         [Display(Name = "Mac Address")]
         public string MacAddress { get; set; }
